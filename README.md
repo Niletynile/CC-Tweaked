@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @Niletynile
-- 👀 I’m interested in CC:Tweaked Code
-- 🌱 I’m currently learning CC:Tweaked Code
-- 💞️ I’m looking to collaborate on CC:Tweaked
-- 😄 Pronouns: He Him
-- ⚡ Fun fact: I'm 7 Years Old
